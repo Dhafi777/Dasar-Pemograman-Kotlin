@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00157962-44a9-4d62-97d9-e505daa1419e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Represntasi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Character (Char).kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Konversi_EksplisitKt">
+  <component name="RunManager" selected="Kotlin.Character__Char_Kt">
+    <configuration name="Character__Char_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Character__Char_Kt" />
+      <module name="DasarPemogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Constants_LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Constants_LiteralKt" />
       <module name="DasarPemogramanKotlin" />
@@ -62,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tipe_DataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tipe_DataKt" />
-      <module name="DasarPemogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Underscore_dalam_LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Underscore_dalam_LiteralKt" />
       <module name="DasarPemogramanKotlin" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Character__Char_Kt" />
         <item itemvalue="Kotlin.Konversi_EksplisitKt" />
         <item itemvalue="Kotlin.RepresntasiKt" />
         <item itemvalue="Kotlin.Underscore_dalam_LiteralKt" />
         <item itemvalue="Kotlin.Constants_LiteralKt" />
-        <item itemvalue="Kotlin.Tipe_DataKt" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +186,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725346941282</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add Represntasi.kt">
+      <created>1725347479326</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347479326</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add Represntasi.kt">
+      <created>1725347537403</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347537403</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add Konversi Eksplisit.kt">
+      <created>1725347584999</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347584999</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +220,8 @@
     <MESSAGE value="Add Tipe Data.kt" />
     <MESSAGE value="Add Constants Literal.kt" />
     <MESSAGE value="Add Underscore dalam Literal.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Underscore dalam Literal.kt" />
+    <MESSAGE value="Add Represntasi.kt" />
+    <MESSAGE value="Add Konversi Eksplisit.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Konversi Eksplisit.kt" />
   </component>
 </project>
