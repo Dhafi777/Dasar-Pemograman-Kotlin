@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Constants_LiteralKt">
+  <component name="RunManager" selected="Kotlin.Underscore_dalam_LiteralKt">
     <configuration name="Constants_LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Constants_LiteralKt" />
       <module name="DasarPemogramanKotlin" />
@@ -50,6 +50,13 @@
     </configuration>
     <configuration name="Tipe_DataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tipe_DataKt" />
+      <module name="DasarPemogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Underscore_dalam_LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Underscore_dalam_LiteralKt" />
       <module name="DasarPemogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhitespacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhitespacesKt" />
-      <module name="DasarPemogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Underscore_dalam_LiteralKt" />
         <item itemvalue="Kotlin.Constants_LiteralKt" />
         <item itemvalue="Kotlin.Tipe_DataKt" />
         <item itemvalue="Kotlin.Var_vs_ValKt" />
         <item itemvalue="Kotlin.VariabelKt" />
-        <item itemvalue="Kotlin.WhitespacesKt" />
       </list>
     </recent_temporary>
   </component>
