@@ -7,6 +7,8 @@ fun main(args: Array<String>){
     val maxInt: Int = 2147483647
     val minLong: Long = -9223372036854775807
     val maxLong: Long = 9223372036854775807 //64 bit
+    val maxFloat: Float = 9.123456789f
+    val maxDouble: Double = 9.123456789
 
     println("minByte: "+minByte)
     println("maxByte: "+maxByte)
@@ -16,5 +18,7 @@ fun main(args: Array<String>){
     println("maxInt: "+minInt)
     println("minLong: "+minLong)
     println("minLong: "+minLong)
+    println("maxFloat:" + maxFloat)
+    println("maxDouble:" + maxDouble)
 
 }
