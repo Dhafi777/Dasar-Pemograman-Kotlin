@@ -1,4 +1,4 @@
-fun Literal(args: Array<String>) {
+fun main() {
     var intLiteral = 5
     var doubleLiteral = .02
     var stringLiteral = "Hello"
