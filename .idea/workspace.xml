@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00157962-44a9-4d62-97d9-e505daa1419e" name="Changes" comment="" />
+    <list default="true" id="00157962-44a9-4d62-97d9-e505daa1419e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Boolean (true or false).kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean (true or false).kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725844111394</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add Boolean (true or false).kt">
+      <created>1725864976747</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725864976747</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,6 +245,7 @@
     <MESSAGE value="Add Konversi Eksplisit.kt" />
     <MESSAGE value="Add Character (Char).kt" />
     <MESSAGE value="Add Penerapan Konversi Eksplisit pada Char.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Penerapan Konversi Eksplisit pada Char.kt" />
+    <MESSAGE value="Add Boolean (true or false).kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Boolean (true or false).kt" />
   </component>
 </project>
