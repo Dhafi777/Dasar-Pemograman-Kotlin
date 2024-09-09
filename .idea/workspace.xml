@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Boolean__true_or_false_Kt">
+  <component name="RunManager" selected="Kotlin.String_TemplatesKt">
     <configuration name="Boolean__true_or_false_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boolean__true_or_false_Kt" />
       <module name="DasarPemogramanKotlin" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepresntasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepresntasiKt" />
+    <configuration name="String_TemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_TemplatesKt" />
       <module name="DasarPemogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.String_TemplatesKt" />
         <item itemvalue="Kotlin.Boolean__true_or_false_Kt" />
         <item itemvalue="Kotlin.Penerapa_Konversi_Eksplisti_pada_CharKt" />
         <item itemvalue="Kotlin.Character__Char_Kt" />
         <item itemvalue="Kotlin.Konversi_EksplisitKt" />
-        <item itemvalue="Kotlin.RepresntasiKt" />
       </list>
     </recent_temporary>
   </component>
