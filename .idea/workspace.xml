@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Program_Sandi_MorseKt">
+  <component name="RunManager" selected="Kotlin.Perintah_Masukan_di_KotlinKt">
     <configuration name="Fungsi_Anggota_pada_StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fungsi_Anggota_pada_StringKt" />
       <module name="DasarPemogramanKotlin" />
@@ -50,6 +50,13 @@
     </configuration>
     <configuration name="Penerapan_StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Penerapan_StringKt" />
+      <module name="DasarPemogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Perintah_Masukan_di_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Perintah_Masukan_di_KotlinKt" />
       <module name="DasarPemogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_TemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_TemplatesKt" />
-      <module name="DasarPemogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Perintah_Masukan_di_KotlinKt" />
         <item itemvalue="Kotlin.Program_Sandi_MorseKt" />
         <item itemvalue="Kotlin.Program_Caesar_ChiperKt" />
         <item itemvalue="Kotlin.Penerapan_StringKt" />
         <item itemvalue="Kotlin.Fungsi_Anggota_pada_StringKt" />
-        <item itemvalue="Kotlin.String_TemplatesKt" />
       </list>
     </recent_temporary>
   </component>
