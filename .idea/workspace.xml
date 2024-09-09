@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00157962-44a9-4d62-97d9-e505daa1419e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapa Konversi Eksplisti pada Char.kt" afterDir="false" />
-    </list>
+    <list default="true" id="00157962-44a9-4d62-97d9-e505daa1419e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,27 +27,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.Character__Char_Kt">
-    <configuration name="Character__Char_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Character__Char_Kt" />
+}</component>
+  <component name="RunManager" selected="Kotlin.Boolean__true_or_false_Kt">
+    <configuration name="Boolean__true_or_false_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boolean__true_or_false_Kt" />
       <module name="DasarPemogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constants_LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constants_LiteralKt" />
+    <configuration name="Character__Char_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Character__Char_Kt" />
       <module name="DasarPemogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,6 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Penerapa_Konversi_Eksplisti_pada_CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Penerapa_Konversi_Eksplisti_pada_CharKt" />
+      <module name="DasarPemogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RepresntasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RepresntasiKt" />
       <module name="DasarPemogramanKotlin" />
@@ -69,20 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Underscore_dalam_LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Underscore_dalam_LiteralKt" />
-      <module name="DasarPemogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Boolean__true_or_false_Kt" />
+        <item itemvalue="Kotlin.Penerapa_Konversi_Eksplisti_pada_CharKt" />
         <item itemvalue="Kotlin.Character__Char_Kt" />
         <item itemvalue="Kotlin.Konversi_EksplisitKt" />
         <item itemvalue="Kotlin.RepresntasiKt" />
-        <item itemvalue="Kotlin.Underscore_dalam_LiteralKt" />
-        <item itemvalue="Kotlin.Constants_LiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725349396965</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add Penerapan Konversi Eksplisit pada Char.kt">
+      <created>1725844111394</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725844111394</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,6 +235,7 @@
     <MESSAGE value="Add Represntasi.kt" />
     <MESSAGE value="Add Konversi Eksplisit.kt" />
     <MESSAGE value="Add Character (Char).kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Character (Char).kt" />
+    <MESSAGE value="Add Penerapan Konversi Eksplisit pada Char.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Penerapan Konversi Eksplisit pada Char.kt" />
   </component>
 </project>
