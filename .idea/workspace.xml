@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00157962-44a9-4d62-97d9-e505daa1419e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Caesar Chiper.kt" afterDir="false" />
-    </list>
+    <list default="true" id="00157962-44a9-4d62-97d9-e505daa1419e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,7 +254,35 @@
       <option name="project" value="LOCAL" />
       <updated>1725865322561</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add Program Caesar Chiper.kt">
+      <created>1725865405838</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725865405838</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add Program Sandi Morse.kt">
+      <created>1725865478088</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725865478088</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add Perintah Masukan di Kotlin.kt">
+      <created>1725865552840</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725865552840</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add Program Kalkulator Sederhana.kt">
+      <created>1725865623213</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725865623213</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,6 +302,10 @@
     <MESSAGE value="Add Boolean (true or false).kt" />
     <MESSAGE value="Add Fungsi Anggota pada String.kt" />
     <MESSAGE value="Add Penerapan String.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Penerapan String.kt" />
+    <MESSAGE value="Add Program Caesar Chiper.kt" />
+    <MESSAGE value="Add Program Sandi Morse.kt" />
+    <MESSAGE value="Add Perintah Masukan di Kotlin.kt" />
+    <MESSAGE value="Add Program Kalkulator Sederhana.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Program Kalkulator Sederhana.kt" />
   </component>
 </project>
