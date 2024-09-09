@@ -40,16 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Fungsi_Anggota_pada_StringKt">
+  <component name="RunManager" selected="Kotlin.Penerapan_StringKt">
     <configuration name="Boolean__true_or_false_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boolean__true_or_false_Kt" />
-      <module name="DasarPemogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Character__Char_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Character__Char_Kt" />
       <module name="DasarPemogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Penerapan_StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Penerapan_StringKt" />
+      <module name="DasarPemogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="String_TemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_TemplatesKt" />
       <module name="DasarPemogramanKotlin" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Penerapan_StringKt" />
         <item itemvalue="Kotlin.Fungsi_Anggota_pada_StringKt" />
         <item itemvalue="Kotlin.String_TemplatesKt" />
         <item itemvalue="Kotlin.Boolean__true_or_false_Kt" />
         <item itemvalue="Kotlin.Penerapa_Konversi_Eksplisti_pada_CharKt" />
-        <item itemvalue="Kotlin.Character__Char_Kt" />
       </list>
     </recent_temporary>
   </component>
